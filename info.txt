@@ -1,0 +1,4 @@
+Package Needed ----------------------------------------------------------------
+
+pip install moviepy
+pip install speech_recognition 
