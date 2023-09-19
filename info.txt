@@ -1,4 +1,0 @@
-#Video Summary OutLine
-
-Steps: 
-1.Create a User interface Platform 
